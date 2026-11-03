@@ -1,0 +1,8 @@
+bin/
+obj/
+numbers.txt
+parts/
+results/*.csv
+results/charts/
+.vs/
+.idea/
